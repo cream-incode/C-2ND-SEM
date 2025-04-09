@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
 
-// argument
-int multiply(int , int );
+// function
+int multiply(int, int );
 
+//argument
 int main()
 {
     // must have both value or will error
