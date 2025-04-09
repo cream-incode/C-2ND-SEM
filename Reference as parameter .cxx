@@ -10,7 +10,7 @@ int main ()
 	
 	int x = 3 , y = 6;
 	//x will become a
-	// y will become y
+	// y will become b
 	duplicate (x,y);
 	
 	// so A will become x = x + 1;
